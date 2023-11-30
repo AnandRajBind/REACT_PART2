@@ -1,3 +1,5 @@
+
+// counter app, hook and conditional rendering 
 import {useState} from 'react';
 // global variable 
 let z=10;
